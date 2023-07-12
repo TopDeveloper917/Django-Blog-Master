@@ -2,12 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Configuration
-
-Before running the project, make sure to configure the following:
-
-- Set environment variables with your ip address example: REACT_APP_API_URL=https://8.8.8.8:8000
-
 ## Available Scripts
 
 In the project directory, you can run:
